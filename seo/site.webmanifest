@@ -1,0 +1,28 @@
+{
+  "name": "Sukanda Djaya",
+  "short_name": "Sukanda",
+  "description": "Delivering joy across Indonesia since 1974.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#fefff9",
+  "theme_color": "#E8341C",
+  "icons": [
+    {
+      "src": "/sukanda/seo/favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/sukanda/seo/favicon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/sukanda/seo/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
